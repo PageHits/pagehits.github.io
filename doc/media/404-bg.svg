@@ -1,0 +1,12 @@
+<svg width="713" height="575" viewBox="0 0 713 575" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="404">
+<g id="backdrop">
+<path id="Details" fill-rule="evenodd" clip-rule="evenodd" d="M182.592 442C134.903 442 85.5215 394.468 118.005 320.78C150.201 247.028 102.191 227.906 82.3379 182.658C61.9547 137.803 115.039 47.7274 230.309 108.284C345.221 168.777 355.892 212.704 434.19 190.868C512.209 168.777 564.374 122.488 621.202 152.715C678.054 182.855 579.68 266.948 600.477 314.985C621.134 363.017 678.054 442 600.477 442C522.761 442 230.178 442 182.592 442Z" fill="#F2F5F9"/>
+<ellipse id="Details_2" cx="602" cy="270.5" rx="19" ry="19.5" fill="#E2EAF5"/>
+<circle id="Details_3" cx="165" cy="214" r="24" fill="#E2EAF5"/>
+<circle id="Details_4" cx="136.5" cy="272.5" r="16.5" fill="#E2EAF5"/>
+<circle id="Details_5" cx="114" cy="232" r="12" fill="#E2EAF5"/>
+</g>
+<ellipse id="robot shadow" cx="359.5" cy="550" rx="116.5" ry="16" fill="#F1F5F8"/>
+</g>
+</svg>
